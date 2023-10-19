@@ -16,5 +16,10 @@ Some sample examples on Cypress and javascript covering:
 13. Shadow Dom
 14. Geolocation using hooks
 15. Generate data
-And many more
+16. API testing
+17. Tests using Lambda playground
+18. Audio test
+19. Running all tests or running selected tests
+20. Hover test
+
 
